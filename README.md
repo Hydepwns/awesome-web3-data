@@ -115,7 +115,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [web3.py](https://web3py.readthedocs.io/) - Python library for interacting with Ethereum, suitable for data analysis. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 Wow reader, you made it to the end! Not enough resources?
-Diver Deeper with @anettrolikova's massive [Crypto repo](https://github.com/anettrolikova/Crypto)
+Diver Deeper with [@anettrolikova's](https://github.com/anettrolikova) massive [Crypto repo](https://github.com/anettrolikova/Crypto)
 
 ## Contributing
 
