@@ -27,6 +27,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Messari](https://messari.io/) - Crypto market intelligence platform offering research, metrics, and data visualization tools.
 - [Rated Network](https://www.rated.network/) - Platform providing insights and analytics on blockchain networks, focusing on validator performance and network health.
 - [PandaMetrics](https://pandametrics.xyz/) - Advanced analytics platform for blockchain data insights. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Flipside](https://flipsidecrypto.xyz/) - Reliable blockchain analytics and data provider platform on top of Snowflake SQL with support over two dozen chains.
 
 ## Data Providers
 
@@ -35,7 +36,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Moralis](https://moralis.io/) - Web3 development platform with comprehensive data APIs for various blockchains.
 - [Chainlink](https://chain.link/) - Decentralized oracle network providing real-world data to smart contracts.[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [DeFi Pulse](https://defipulse.com/) - Decentralized finance (DeFi) analytics platform tracking key metrics.
-  
+
 ## Indexers
 
 - [rindexer](https://rindexer.xyz/) - High-performance Ethereum indexer optimized for speed and efficiency.
