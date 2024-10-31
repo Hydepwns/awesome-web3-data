@@ -82,7 +82,8 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of the Ethereum blockchain structure.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics and data provider platform on top of Snowflake SQL with multi-chain support.
 - [PandaMetrics](https://pandametrics.xyz/) - Advanced analytics platform for blockchain data insights. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Rated Network](https://www.rated.network/) - Platform providing insights and analytics on blockchain networks, focusing on validator performance and network health.
+- [Rated Network](https://www.rated.network/) - Provides insights and analytics on validator performance and network health.
+- [WenMerge](https://wenmerge.com/) - Visualizations and exploration of the Ethereum Merge.
 
 ## Block Explorers
 
@@ -94,8 +95,8 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Mintscan](https://mintscan.io) - Blockchain explorer for the Cosmos ecosystem.
 - [PolygonScan](https://polygonscan.com/) - Block explorer and analytics platform for Polygon network.
 
-- [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting multiple blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)]
-- [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)]
+- [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting multiple blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Infura](https://infura.io/) - Ethereum and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Alchemy](https://www.alchemy.com/) - Blockchain development platform and API provider with enhanced features.
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
@@ -150,6 +151,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [EthSunshine](https://ethsunshine.com/) - Ethereum node monitoring and analytics platform. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Etherscan Node Tracker](https://etherscan.io/nodetracker) - Tool for tracking Ethereum nodes and their performance.
 - [Lido VANOM](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/latest?ref=blog.lido.fi) - [LidoDAO](https://lido.fi/)'s Quarterly Validator Node Operator Monitoring ('VANOM') report. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+
 ## Data Providers
 
 - [Chainlink](https://chain.link/) - Decentralized oracle network providing real-world data to smart contracts.[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
