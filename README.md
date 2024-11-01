@@ -114,6 +114,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [EthSunshine](https://ethsunshine.com/) - Ethereum node monitoring and analytics platform. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Etherscan Node Tracker](https://etherscan.io/nodetracker) - Tool for tracking Ethereum nodes and their performance.
 - [Lido VANOM](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/latest?ref=blog.lido.fi) - [LidoDAO](https://lido.fi/)'s Quarterly Validator Node Operator Monitoring ('VANOM') report. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - The charts for deploying different infrastructure components on Kubernetes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)]
 
 ## NFT Data Providers
 
@@ -138,6 +139,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Truffle](https://trufflesuite.com/) - Development environment, testing framework, and asset pipeline for Ethereum. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [web3.js](https://web3js.readthedocs.io/) - Ethereum JavaScript API for interacting with Ethereum nodes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [web3.py](https://web3py.readthedocs.io/) - Python library for interacting with Ethereum, suitable for data analysis. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Multiproof](https://github.com/stakewise/multiproof) - A Python library for generating Merkle trees and proofs, fully compatible with OpenZeppelin contracts.
 
 ## Visualization Tools
 
