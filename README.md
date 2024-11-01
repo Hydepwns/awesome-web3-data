@@ -29,6 +29,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 
 - [DeBank](https://debank.com/) - Multi-chain portfolio tracker and analytics platform for DeFi.
 - [Dune Analytics](https://dune.com/) - Community-powered crypto analytics platform with SQL queries and customizable dashboards.
+- [Rotki](https://rotki.com/) - Rotki is a privacy preserving, open source portfolio tracker, accounting and analytics tool.
 - [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi portfolio management and analytics.
 - [Zerion](https://zerion.io/) - DeFi portfolio manager with detailed analytics and market insights.
 
