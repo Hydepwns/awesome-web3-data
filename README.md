@@ -51,6 +51,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [DefiLlama](https://defillama.com/) - Open and transparent DeFi TVL and analytics platform. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of the Ethereum blockchain structure.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics and data provider platform on top of Snowflake SQL with multi-chain support.
+- [L2BEAT](https://l2beat.com/scaling/summary) - Comprehensive analysis of Ethereum Layer 2 scaling solutions, including risk assessments and metrics. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [WenMerge](https://wenmerge.com/) - Visualizations and exploration of the Ethereum Merge.
 
 ### DeFi Analytics
