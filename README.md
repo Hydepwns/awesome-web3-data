@@ -125,13 +125,13 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 
 ### Load Balancers
 
-- [whats-good/nexus](A load balancing blockchain RPC reverse proxy written in TypeScript.) - A load balancing blockchain RPC reverse proxy written in TypeScript. [Rust implementation](https://github.com/whats-good/rpc-gateway) W.I.P. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [whats-good/nexus](https://github.com/whats-good/nexus) - A load balancing blockchain RPC reverse proxy written in TypeScript. [Rust implementation](https://github.com/whats-good/rpc-gateway) W.I.P. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
--[dshackle](https://github.com/emeraldpay/dshackle) - Fault Tolerant Load Balancer for Ethereum and Bitcoin APIs [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [dshackle](https://github.com/emeraldpay/dshackle) - Fault Tolerant Load Balancer for Ethereum and Bitcoin APIs [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
--[blutgang](https://github.com/rainshowerLabs/blutgang) - the wd40 of ethereum load balancers [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [blutgang](https://github.com/rainshowerLabs/blutgang) - the wd40 of ethereum load balancers [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
--[erpc](https://github.com/EmbeddedRPC/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [erpc](https://github.com/EmbeddedRPC/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ## NFT Data Providers
 
