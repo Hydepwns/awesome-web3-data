@@ -19,7 +19,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Indexers](#indexers)
 - [Infrastructure](#infrastructure)
   - [Load Balancers](#load-balancers)
-- [NFT Data Providers](#nft-data-providers)
+- [NFT Data Providers](#nft-data)
 - [RPC Providers](#rpc-providers)
 - [SDKs and Libraries](#sdks-and-libraries)
 - [Visualization Tools](#visualization-tools)
@@ -61,7 +61,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi management.
 - [DeBank](https://debank.com/) - Multi-chain portfolio tracker for DeFi.
 - [Zerion](https://zerion.io/) - DeFi portfolio manager with insights.
-- [CryptoPanic](https://cryptopanic.com/) - Cryptocurrency news aggregator with sentiment analysis.
+- [CryptoPanic](https://cryptopanic.com/) - Crypto news aggregator with sentiment analysis.
 - [LlamaRisk](https://portal.llamarisk.com/) - DeFi risk management platform with dashboards.
 
 ### Market Intelligence & Analysis
@@ -86,8 +86,8 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 
 ## Data Providers
 
-- [Chainlink](https://chain.link/) - Decentralized oracle network providing real-world data to smart contracts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush](https://goldrush.dev/)
+- [Chainlink](https://chain.link/) - Oracle network providing real-world data to smart contracts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Covalent](https://www.covalenthq.com/) - Historical datasets, Covalent Unified API: [goldrush API](https://goldrush.dev/)
 - [DeFi Pulse](https://defipulse.com/) - DeFi analytics.
 - [Moralis](https://moralis.io/) - Web3 development platform with comprehensive data APIs for various blockchains.
 - [The Graph](https://thegraph.com/) - Indexing protocol for querying blockchain data with GraphQL APIs. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
@@ -97,7 +97,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Blockchain ETL](https://github.com/blockchain-etl/blockchain-etl-common) - ETL tools for various blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Cryo](https://github.com/paradigmxyz/cryo) - High-performance blockchain data extraction tool supporting various blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL jobs on ETH data, including blocks, transactions, and tokens. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Ethers.js](https://docs.ethers.io/) - Complete ETH library in JavaScript, facilitating data extraction and manipulation. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Ethers.js](https://docs.ethers.io/) - Complete ETH library in JavaScript, for data extraction and manipulation. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Squid](https://github.com/subsquid/squid-sdk) - TypeScript ETL toolkit for blockchain data. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Web3.py](https://web3py.readthedocs.io/) - Python library for interacting with ETH, useful for custom ETL processes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
@@ -125,7 +125,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Lucky Staker](https://luckystaker.com/home/) - Platform providing insights and analytics for ETH staking. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Monitor Eth](https://monitoreth.io/) - ETH monitoring tool providing insights into the consensus layer and ETH blobs. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [NodeWatch](https://nodewatch.io/) - Monitoring tool for ETH nodes, providing real-time data and alerts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - The charts for deploying different infrastructure components on Kubernetes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - Charts for deploying different infrastructure components on Kubernetes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ### Load Balancers
 
