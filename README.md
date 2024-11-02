@@ -157,6 +157,6 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 To the extent possible under law, axol.io has waived all copyright and related or neighboring rights to this work
 
-Wow reader, you made it to the end! Not enough resources? 
+Wow reader, you made it to the end! Not enough resources?
 
 Dive Deeper with [@anettrolikova's](https://github.com/anettrolikova) massive [Crypto repo](https://github.com/anettrolikova/Crypto)
