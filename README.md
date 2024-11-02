@@ -147,9 +147,9 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Bubble Maps](https://bubblemaps.io/) - Visualization tool for exploring blockchain data through interactive bubble maps, highlighting connections between addresses and transactions
 - [DeFi Llama](https://defillama.com/) - DeFi TVL aggregator with customizable charts and metrics. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of the Ethereum blockchain structure.
-- [Map of Zones] (https://mapofzones.com/home) - Analytics platform for the Cosmos Ecosystem. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Map of Zones](https://mapofzones.com/home) - Analytics platform for the Cosmos Ecosystem. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Token Terminal](https://tokenterminal.com/) - Financial metrics and charts for crypto protocols and applications.
-- [Urbit Explorer] (https://urbitex.io/network) - Network Visualizer for the Urbit Ecosystem.
+- [Urbit Explorer](https://urbitex.io/network) - Network Visualizer for the Urbit Ecosystem.
 
 ## Contributing
 
