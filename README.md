@@ -95,12 +95,17 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Cryo](https://github.com/paradigmxyz/cryo) - High-performance blockchain data extraction tool supporting multiple chains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL jobs on Ethereum data, including blocks, transactions, and tokens. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Ethers.js](https://docs.ethers.io/) - Complete Ethereum library in JavaScript, facilitating data extraction and manipulation. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Squid](https://github.com/subsquid/squid-sdk) - TypeScript ETL toolkit for blockchain data. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Web3.py](https://web3py.readthedocs.io/) - Python library for interacting with Ethereum, useful for custom ETL processes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ## Indexers
 
+- [Indexed](https://www.indexed.xyz/) - Public, decoded crypto datasets. Updated every 10 mins.
 - [goteth](https://github.com/migalabs/goteth) - Ethereum blockchain indexer written in Go, designed for scalability. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Kong](https://github.com/yearn/kong) - Real-time and historical EVM indexer. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Reth Indexer](https://github.com/joshstevens19/reth-indexer) - Indexer which reads directly from the reth database. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [rindexer](https://rindexer.xyz/) - High-performance Ethereum indexer optimized for speed and efficiency.
+- [Shovel](https://github.com/indexsupply/shovel) - A simple, config-based Ethereum to Postgres indexer. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Subquery](https://subquery.network/) - Flexible blockchain data indexer for various networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [The Graph](https://thegraph.com/) - Decentralized protocol for indexing and querying blockchain data. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [TrueBlocks](https://trueblocks.io/) - Open-source Ethereum indexer and API for detailed blockchain data analysis. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
@@ -128,9 +133,12 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 ## RPC Providers
 
 - [Alchemy](https://www.alchemy.com/) - Blockchain development platform and API provider with enhanced features.
+- [Ankr](https://www.ankr.com) - Fast Web3 API provider with a free tier. Supports Web3 login and payments for the lower tier plan.
+- [Chainstack](https://chainstack.com) - Web3 APIs including IPFS access and Subgraphs hosting.
 - [Infura](https://infura.io/) - Ethereum and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting multiple blockchains.
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
+- [Rivet](https://rivet.cloud) - Cloud-based Ethereum APIs with a free tier. Supports Web3 login and payments.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks.
 
 ## SDKs and Libraries
@@ -138,6 +146,8 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [ethers.js](https://docs.ethers.io/) - Complete Ethereum library and wallet implementation in JavaScript. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Truffle](https://trufflesuite.com/) - Development environment, testing framework, and asset pipeline for Ethereum. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Viem](https://github.com/wevm/viem) - Modern modular TypeScript interface for Ethereum. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Wagmi](https://github.com/wevm/wagmi) - React hooks and utilities for Ethereum apps. Based on Viem. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [web3.js](https://web3js.readthedocs.io/) - Ethereum JavaScript API for interacting with Ethereum nodes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [web3.py](https://web3py.readthedocs.io/) - Python library for interacting with Ethereum, suitable for data analysis. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Multiproof](https://github.com/stakewise/multiproof) - A Python library for generating Merkle trees and proofs, fully compatible with OpenZeppelin contracts.
@@ -157,6 +167,6 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 To the extent possible under law, axol.io has waived all copyright and related or neighboring rights to this work
 
-Wow reader, you made it to the end! Not enough resources? 
+Wow reader, you made it to the end! Not enough resources?
 
 Dive Deeper with [@anettrolikova's](https://github.com/anettrolikova) massive [Crypto repo](https://github.com/anettrolikova/Crypto)
