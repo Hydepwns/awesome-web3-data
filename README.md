@@ -38,56 +38,56 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 
 ### Dashboards & Portfolio Trackers
 
-- [DeBank](https://debank.com/) - Multi-chain portfolio tracker and analytics platform for DeFi.
-- [Dune Analytics](https://dune.com/) - Community-powered crypto analytics platform with SQL queries and customizable dashboards.
-- [Rotki](https://rotki.com/) - Rotki is a privacy preserving, open source portfolio tracker, accounting and analytics tool. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi portfolio management and analytics.
-- [Zerion](https://zerion.io/) - DeFi portfolio manager with detailed analytics and market insights.
+- [DeBank](https://debank.com/) - Multi-chain portfolio tracker and analytics for DeFi.
+- [Dune Analytics](https://dune.com/) - Community-powered crypto analytics with SQL queries and dashboards.
+- [Rotki](https://rotki.com/) - Privacy-preserving, open-source portfolio tracker and analytics tool. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi portfolio management.
+- [Zerion](https://zerion.io/) - DeFi portfolio manager with analytics and insights.
 
 ### Data Visualization & Exploration
 
-- [Bubble Maps](https://bubblemaps.io/) - Visualization tool for exploring blockchain data through interactive bubble maps, highlighting connections between addresses and transactions.
-- [Cielo Finance](https://cielo.finance/) - On-chain activity tracker and wallet discovery platform for monitoring real-time blockchain events and top traders.
-- [DefiLlama](https://defillama.com/) - Open and transparent DeFi TVL and analytics platform. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of the Ethereum blockchain structure.
-- [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics and data provider platform on top of Snowflake SQL with multi-chain support.
-- [L2BEAT](https://l2beat.com/scaling/summary) - Comprehensive analysis of Ethereum Layer 2 scaling solutions, including risk assessments and metrics. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [WenMerge](https://wenmerge.com/) - Visualizations and exploration of the Ethereum Merge.
+- [Bubble Maps](https://bubblemaps.io/) - Interactive maps for exploring blockchain data.
+- [Cielo Finance](https://cielo.finance/) - On-chain activity tracker and wallet discovery.
+- [DefiLlama](https://defillama.com/) - Open DeFi TVL and analytics platform. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of Ethereum's structure.
+- [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
+- [L2BEAT](https://l2beat.com/scaling/summary) - Analysis of Ethereum Layer 2 solutions, with risk assessments. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [WenMerge](https://wenmerge.com/) - Visualizations of the Ethereum Merge.
 
 ### DeFi Analytics
 
-- [DefiLlama](https://defillama.com/) - Open and transparent DeFi TVL and analytics platform. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [DappRadar](https://dappradar.com/) - Dapp discovery and analytics platform with DeFi protocol tracking.
-- [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi portfolio management and analytics.
-- [DeBank](https://debank.com/) - Multi-chain portfolio tracker and analytics platform for DeFi.
-- [Zerion](https://zerion.io/) - DeFi portfolio manager with detailed analytics and market insights.
-- [CryptoPanic](https://cryptopanic.com/) - Cryptocurrency news aggregator platform with real-time updates and sentiment analysis.
-- [LlamaRisk](https://portal.llamarisk.com/) - Comprehensive DeFi risk management platform with multiple dashboards.
+- [DefiLlama](https://defillama.com/) - Open DeFi TVL and analytics platform. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking.
+- [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi management.
+- [DeBank](https://debank.com/) - Multi-chain portfolio tracker for DeFi.
+- [Zerion](https://zerion.io/) - DeFi portfolio manager with insights.
+- [CryptoPanic](https://cryptopanic.com/) - Cryptocurrency news aggregator with sentiment analysis.
+- [LlamaRisk](https://portal.llamarisk.com/) - DeFi risk management platform with dashboards.
 
 ### Market Intelligence & Analysis
 
-- [CryptoPanic](https://cryptopanic.com/) - Cryptocurrency news aggregator platform with real-time updates and sentiment analysis.
-- [DappRadar](https://dappradar.com/) - Dapp discovery and analytics platform with DeFi protocol tracking.
-- [Glassnode](https://glassnode.com/) - On-chain market intelligence platform providing metrics and insights for digital assets.
-- [IntoTheBlock](https://www.intotheblock.com/) - Crypto analytics platform leveraging machine learning for advanced insights.
-- [Messari](https://messari.io/) - Crypto market intelligence platform offering research, metrics, and data visualization tools.
-- [Nansen](https://www.nansen.ai/) - Blockchain analytics platform with wallet labels, offering real-time actionable insights.
-- [PandaMetrics](https://pandametrics.xyz/) - Advanced analytics platform for blockchain data insights. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Rated Network](https://www.rated.network/) - Platform providing insights and analytics on blockchain networks, focusing on validator performance and network health.
+- [CryptoPanic](https://cryptopanic.com/) - News aggregator with real-time updates and sentiment analysis.
+- [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking.
+- [Glassnode](https://glassnode.com/) - On-chain market intelligence for digital assets.
+- [IntoTheBlock](https://www.intotheblock.com/) - Crypto analytics with machine learning insights.
+- [Messari](https://messari.io/) - Market intelligence with research, metrics, and visualization tools.
+- [Nansen](https://www.nansen.ai/) - Blockchain analytics with wallet labels and insights.
+- [PandaMetrics](https://pandametrics.xyz/) - Advanced blockchain data analytics. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Rated Network](https://www.rated.network/) - Insights on blockchain networks, focusing on validator performance.
 
 ## Blockchain Oracles
 
-- [API3](https://api3.org/) - First-party oracle solution for connecting APIs directly to smart contracts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Band Protocol](https://bandprotocol.com/) - Cross-chain data oracle platform for Web3 applications.
-- [Chainlink](https://chain.link/) - Decentralized oracle network providing real-world data to smart contracts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Tellor](https://tellor.io/) - Decentralized oracle for bringing off-chain data onto Ethereum. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [UMA](https://umaproject.org/) - Optimistic oracle service for DeFi applications. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [API3](https://api3.org/) - First-party oracle solution for smart contracts. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Band Protocol](https://bandprotocol.com/) - Cross-chain data oracle for Web3.
+- [Chainlink](https://chain.link/) - Decentralized oracle network for smart contracts. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Tellor](https://tellor.io/) - Decentralized oracle for off-chain data on Ethereum. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [UMA](https://umaproject.org/) - Optimistic oracle for DeFi applications. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 
 ## Data Providers
 
 - [Chainlink](https://chain.link/) - Decentralized oracle network providing real-world data to smart contracts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Covalent](https://www.covalenthq.com/) - Unified API bringing full transparency to assets across all blockchain networks.
-- [DeFi Pulse](https://defipulse.com/) - Decentralized finance (DeFi) analytics platform tracking key metrics.
+- [DeFi Pulse](https://defipulse.com/) - DeFi analytics platform tracking key metrics.
 - [Moralis](https://moralis.io/) - Web3 development platform with comprehensive data APIs for various blockchains.
 - [The Graph](https://thegraph.com/) - Indexing protocol for querying blockchain data with GraphQL APIs. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
@@ -129,11 +129,8 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 ### Load Balancers
 
 - [whats-good/nexus](https://github.com/whats-good/nexus) - A load balancing blockchain RPC reverse proxy written in TypeScript. [Rust implementation](https://github.com/whats-good/rpc-gateway) W.I.P. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-
 - [dshackle](https://github.com/emeraldpay/dshackle) - Fault Tolerant Load Balancer for Ethereum and Bitcoin APIs [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-
 - [blutgang](https://github.com/rainshowerLabs/blutgang) - the wd40 of ethereum load balancers [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-
 - [erpc](https://github.com/EmbeddedRPC/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ## NFT Data Providers
@@ -150,10 +147,10 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Ankr](https://www.ankr.com) - Fast Web3 API provider with a free tier. Supports Web3 login and payments for the lower tier plan.
 - [Chainstack](https://chainstack.com) - Web3 APIs including IPFS access and Subgraphs hosting.
 - [Infura](https://infura.io/) - Ethereum and IPFS APIs and developer tools for scalable dApp infrastructure.
-- [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting multiple blockchains.
+- [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting multiple blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
 - [Rivet](https://rivet.cloud) - Cloud-based Ethereum APIs with a free tier. Supports Web3 login and payments.
-- [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks.
+- [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ## SDKs and Libraries
 
