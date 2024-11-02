@@ -7,11 +7,11 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 ## Table of Contents
 
 - [Analytics & Visualization Tools](#analytics--visualization-tools)
+  - [Block Explorers](#block-explorers)
   - [Dashboards & Portfolio Trackers](#dashboards--portfolio-trackers)
   - [Data Visualization & Exploration](#data-visualization--exploration)
   - [DeFi Analytics](#defi-analytics)
   - [Market Intelligence & Analysis](#market-intelligence--analysis)
-- [Block Explorers](#block-explorers)
 - [Blockchain Oracles](#blockchain-oracles)
 - [Contributing](#contributing)
 - [Data Providers](#data-providers)
@@ -25,6 +25,16 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Visualization Tools](#visualization-tools)
 
 ## Analytics & Visualization Tools
+
+### Block Explorers
+
+- [Beaconcha.in](https://beaconcha.in/) - Ethereum 2.0 Beacon Chain explorer providing insights and analytics on the network. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Bitquery](https://bitquery.io/) - Offers multi-dimensional analytics, supports over 40 blockchains, and provides tracing features for transaction flows. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Blockscout](https://blockscout.com/) - Open-source blockchain explorer for Ethereum and EVM-based networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [BscScan](https://bscscan.com/) - Block explorer and analytics platform for Binance Smart Chain.
+- [Etherscan](https://etherscan.io/) - Comprehensive Ethereum blockchain explorer and analytics platform.
+- [Mintscan](https://mintscan.io) - Blockchain explorer for the Cosmos ecosystem.
+- [PolygonScan](https://polygonscan.com/) - Block explorer and analytics platform for Polygon network.
 
 ### Dashboards & Portfolio Trackers
 
@@ -63,16 +73,6 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Nansen](https://www.nansen.ai/) - Blockchain analytics platform with wallet labels, offering real-time actionable insights.
 - [PandaMetrics](https://pandametrics.xyz/) - Advanced analytics platform for blockchain data insights. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Rated Network](https://www.rated.network/) - Platform providing insights and analytics on blockchain networks, focusing on validator performance and network health.
-
-## Block Explorers
-
-- [Beaconcha.in](https://beaconcha.in/) - Ethereum 2.0 Beacon Chain explorer providing insights and analytics on the network. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Bitquery](https://bitquery.io/) - Offers multi-dimensional analytics, supports over 40 blockchains, and provides tracing features for transaction flows. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [Blockscout](https://blockscout.com/) - Open-source blockchain explorer for Ethereum and EVM-based networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [BscScan](https://bscscan.com/) - Block explorer and analytics platform for Binance Smart Chain.
-- [Etherscan](https://etherscan.io/) - Comprehensive Ethereum blockchain explorer and analytics platform.
-- [Mintscan](https://mintscan.io) - Blockchain explorer for the Cosmos ecosystem.
-- [PolygonScan](https://polygonscan.com/) - Block explorer and analytics platform for Polygon network.
 
 ## Blockchain Oracles
 
