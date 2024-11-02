@@ -18,6 +18,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [ETL Tools](#etl-tools)
 - [Indexers](#indexers)
 - [Infrastructure](#infrastructure)
+  - [Load Balancers](#load-balancers)
 - [NFT Data Providers](#nft-data-providers)
 - [RPC Providers](#rpc-providers)
 - [SDKs and Libraries](#sdks-and-libraries)
