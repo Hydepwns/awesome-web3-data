@@ -56,13 +56,14 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 
 ### DeFi Analytics
 
-- [DefiLlama](https://defillama.com/) - Open DeFi TVL and analytics platform. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
-- [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking.
-- [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi management.
-- [DeBank](https://debank.com/) - Multi-chain portfolio tracker for DeFi.
-- [Zerion](https://zerion.io/) - DeFi portfolio manager with insights.
 - [CryptoPanic](https://cryptopanic.com/) - Crypto news aggregator with sentiment analysis.
+- [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking.
+- [DeBank](https://debank.com/) - Multi-chain portfolio tracker for DeFi.
+- [DefiLlama](https://defillama.com/) - Open DeFi TVL and analytics platform. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [GMGN](https://gmgn.ai/about) - Meme-coin discovery platform. Also, check out [the bots](https://docs.gmgn.ai/index) they have.
 - [LlamaRisk](https://portal.llamarisk.com/) - DeFi risk management platform with dashboards.
+- [Zapper](https://zapper.fi/) - Multi-chain dashboard for DeFi management.
+- [Zerion](https://zerion.io/) - DeFi portfolio manager with insights.
 
 ### Market Intelligence & Analysis
 
