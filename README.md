@@ -35,6 +35,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Etherscan](https://etherscan.io/) - Comprehensive ETH blockchain explorer and analytics platform.
 - [Mintscan](https://mintscan.io) - Cosmos ecosystem blockchain explorer.
 - [PolygonScan](https://polygonscan.com/) - Polygon (Matic) block explorer.
+- [BlobScan](https://blobscan.com/) - Blob transaction explorer (ethereum main and testnets)
 
 ### Dashboards & Portfolio Trackers
 
@@ -127,6 +128,10 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Monitor Eth](https://monitoreth.io/) - ETH monitoring tool providing insights into the consensus layer and ETH blobs. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [NodeWatch](https://nodewatch.io/) - Monitoring tool for ETH nodes, providing real-time data and alerts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - Charts for deploying different infrastructure components on Kubernetes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Timing.pics](https://timing.pics/) - Ethereum Timing Dashboard. The latest in timing games and how they're affecting the consensus layer.
+- [Censorship.pics](https://censorship.pics/) - Ethereum Censorship Dashboard. Shows censorship statistics for Builders, Relays and Validators.
+- [Mevboost.pics](https://mevboost.pics/) - MEV-Boost Dashboard. Shows general mev-boost flow data across Builders, Relays and Validators.
+- [Rollup.wtf](https://rollup.wtf/) - Realtime data for Rollups and Blobs
 
 ### Load Balancers
 
