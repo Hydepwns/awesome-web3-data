@@ -138,7 +138,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [whats-good/nexus](https://github.com/whats-good/nexus) - Load balancing blockchain RPC reverse proxy written in TypeScript. [Rust implementation](https://github.com/whats-good/rpc-gateway) W.I.P. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [dshackle](https://github.com/emeraldpay/dshackle) - Fault Tolerant Load Balancer for ETH and BTC APIs [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [blutgang](https://github.com/rainshowerLabs/blutgang) - The wd40 of ETH load balancers [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [erpc](https://github.com/EmbeddedRPC/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [erpc](https://github.com/erpc/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ## NFT Data
 
