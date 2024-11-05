@@ -85,6 +85,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Chainlink](https://chain.link/) - Decentralized oracle network for smart contracts. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [Tellor](https://tellor.io/) - Decentralized oracle for off-chain data on Ethereum. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [UMA](https://umaproject.org/) - Optimistic oracle for DeFi applications. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Blocksense](https://blocksense.network/) - The zk rollup for programmable oracles. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 
 ## Data Providers
 
