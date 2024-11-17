@@ -36,6 +36,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Mintscan](https://mintscan.io) - Cosmos ecosystem blockchain explorer.
 - [PolygonScan](https://polygonscan.com/) - Polygon (Matic) block explorer.
 - [BlobScan](https://blobscan.com/) - Blob transaction explorer (ethereum main and testnets)
+- [SIM Explorer](https://explorer.sim.io/) - Block explorer for ETH / Base with advanced features.
 
 ### Dashboards & Portfolio Trackers
 
@@ -52,7 +53,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregation and analytics platform. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of ETH's structure.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
-- [L2BEAT](https://l2beat.com/scaling/summary) -  ETH L2 knowledge resources, analytics, with in-depth risk assessments. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [L2BEAT](https://l2beat.com/scaling/summary) - ETH L2 knowledge resources, analytics, with in-depth risk assessments. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [WenMerge](https://wenmerge.com/) - Visualizations of the Ethereum Merge.
 - [Allium](https://www.allium.so/) - Accurate, Fast, Simple blockchain data
 
