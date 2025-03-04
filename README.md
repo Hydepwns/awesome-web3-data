@@ -35,6 +35,8 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Etherscan](https://etherscan.io/) - Comprehensive ETH blockchain explorer and analytics platform.
 - [Mintscan](https://mintscan.io) - Cosmos ecosystem blockchain explorer.
 - [PolygonScan](https://polygonscan.com/) - Polygon (Matic) block explorer.
+- [BlobScan](https://blobscan.com/) - Blob transaction explorer (ethereum main and testnets)
+- [SIM Explorer](https://explorer.sim.io/) - Block explorer for ETH / Base with advanced features.
 
 ### Dashboards & Portfolio Trackers
 
@@ -56,7 +58,9 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Map of Zones](https://mapofzones.com/home) - Analytics platform for the Cosmos Ecosystem. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Stargaze Info](https://info.stargaze.zone/) - Comprehensive analytics tool for the Stargaze NFT ecosystem on Cosmos.
 - [Token Terminal](https://tokenterminal.com/) - Financial metrics and charts for crypto protocols and applications.
+- [L2BEAT](https://l2beat.com/scaling/summary) - ETH L2 knowledge resources, analytics, with in-depth risk assessments. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [WenMerge](https://wenmerge.com/) - Visualizations of the Ethereum Merge.
+- [Allium](https://www.allium.so/) - Accurate, Fast, Simple blockchain data
 
 ### DeFi Analytics
 
@@ -89,6 +93,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Chainlink](https://chain.link/) - Decentralized oracle network for smart contracts. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [Tellor](https://tellor.io/) - Decentralized oracle for off-chain data on Ethereum. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [UMA](https://umaproject.org/) - Optimistic oracle for DeFi applications. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Blocksense](https://blocksense.network/) - The zk rollup for programmable oracles. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 
 ## Data Providers
 
@@ -112,6 +117,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Indexed](https://www.indexed.xyz/) - Public, decoded crypto datasets. Updated every 10 mins.
 - [goteth](https://github.com/migalabs/goteth) - ETH blockchain indexer written in Go, designed for scalability. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Kong](https://github.com/yearn/kong) - Real-time and historical EVM indexer. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Ponder](https://ponder.sh) - End-to-end type safe EVM indexer based on Viem. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [Reth Indexer](https://github.com/joshstevens19/reth-indexer) - Indexer which reads directly from the reth database. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [rindexer](https://rindexer.xyz/) - High-performance ETH indexer optimized for speed and efficiency.
 - [Shovel](https://github.com/indexsupply/shovel) - A simple, config-based ETH to Postgres indexer. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
@@ -132,13 +138,17 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Monitor Eth](https://monitoreth.io/) - ETH monitoring tool providing insights into the consensus layer and ETH blobs. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [NodeWatch](https://nodewatch.io/) - Monitoring tool for ETH nodes, providing real-time data and alerts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - Charts for deploying different infrastructure components on Kubernetes. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Timing.pics](https://timing.pics/) - Ethereum Timing Dashboard. The latest in timing games and how they're affecting the consensus layer.
+- [Censorship.pics](https://censorship.pics/) - Ethereum Censorship Dashboard. Shows censorship statistics for Builders, Relays and Validators.
+- [Mevboost.pics](https://mevboost.pics/) - MEV-Boost Dashboard. Shows general mev-boost flow data across Builders, Relays and Validators.
+- [Rollup.wtf](https://rollup.wtf/) - Realtime data for Rollups and Blobs
 
 ### Load Balancers
 
 - [whats-good/nexus](https://github.com/whats-good/nexus) - Load balancing blockchain RPC reverse proxy written in TypeScript. [Rust implementation](https://github.com/whats-good/rpc-gateway) W.I.P. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [dshackle](https://github.com/emeraldpay/dshackle) - Fault Tolerant Load Balancer for ETH and BTC APIs [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [blutgang](https://github.com/rainshowerLabs/blutgang) - The wd40 of ETH load balancers [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-- [erpc](https://github.com/EmbeddedRPC/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [erpc](https://github.com/erpc/erpc) - Embedded RPC [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 ## NFT Data
 
@@ -165,6 +175,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 ## SDKs and Libraries
 
 - [ethers.js](https://docs.ethers.io/) - Complete ETH library and wallet implementation in JavaScript. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Foundry](https://book.getfoundry.sh/) - Modern EVM smart contract development toolchain via CLI and Solidity scripts. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Hardhat](https://hardhat.org/) - ETH development environment for professionals. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Truffle](https://trufflesuite.com/) - Development environment, testing framework, and asset pipeline for ETH. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [Viem](https://github.com/wevm/viem) - Modern modular TypeScript interface for ETH. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
