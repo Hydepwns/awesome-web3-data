@@ -48,10 +48,14 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 
 - [Bubble Maps](https://bubblemaps.io/) - Interactive maps for exploring blockchain data.
 - [Cielo Finance](https://cielo.finance/) - On-chain activity tracker and breakout wallet discovery.
-- [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregation and analytics platform. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
-- [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of ETH's structure.
+- [DeFiLlama](https://defillama.com/) - Open DeFi TVL aggregator with customizable charts and metrics. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Ethereum Blockchain 3D Explorer](https://blockchain3d.info/) - 3D visualization of the ETH blockchain structure.
+- [ETH Gas Tracker](https://www.ethgastracker.com/network/mainnet) - Real-time Ethereum gas prices and analytics tool for efficient transaction planning.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
 - [L2BEAT](https://l2beat.com/scaling/summary) -  ETH L2 knowledge resources, analytics, with in-depth risk assessments. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
+- [Map of Zones](https://mapofzones.com/home) - Analytics platform for the Cosmos Ecosystem. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Stargaze Info](https://info.stargaze.zone/) - Comprehensive analytics tool for the Stargaze NFT ecosystem on Cosmos.
+- [Token Terminal](https://tokenterminal.com/) - Financial metrics and charts for crypto protocols and applications.
 - [WenMerge](https://wenmerge.com/) - Visualizations of the Ethereum Merge.
 
 ### DeFi Analytics
@@ -76,6 +80,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [PandaMetrics](https://pandametrics.xyz/) - Advanced blockchain data analytics. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
 - [Rated Network](https://www.rated.network/) - Insights on blockchain networks, focusing on validator performance.
 - [Rekt News](https://rekt.news/) - Analysis and reports on DeFi hacks, scams, and exploits.
+- [ZeroMEV](https://zeromev.org/) - Ethereum MEV explorer showing user losses from miner extractable value (MEV).
 
 ## Blockchain Oracles
 
@@ -138,6 +143,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 ## NFT Data
 
 - [Alchemy NFT API](https://www.alchemy.com/nft-api) - NFT data API, features ownership verification and metadata enrichment.
+- [Constellations](http://book.constellations.zone/) - High-performance and real-time Cosmos indexer with APIs for NFT data and collection analytics.
 - [Moralis NFT API](https://moralis.io/api/nft/) - NFT data API, advanced features rarity scores and transfer alerts.
 - [NFTPort](https://www.nftport.xyz/) - NFT data API for minting, data querying, and analytics.
 - [OpenSea API](https://docs.opensea.io/reference/api-overview) - NFT data API, including sales, listings, and metadata.
@@ -148,11 +154,13 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Alchemy](https://www.alchemy.com/) - Blockchain development platform with enhanced features.
 - [Ankr](https://www.ankr.com) - Web3 API provider with a free tier. Supports Web3 login and payments for the lower tier plan.
 - [Chainstack](https://chainstack.com) - Web3 APIs including IPFS access and Subgraphs hosting.
+- [Helius](https://www.helius.dev/) - Solana's leading RPC & API platform providing comprehensive Solana infrastructure, NFT APIs and transaction APIs.
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
 - [Rivet](https://rivet.cloud) - Cloud-based ETH APIs with a free tier. Supports Web3 login and payments.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+- [Triton One](https://triton.one/) - High-performance RPC solutions for Solana, Sui, and other blockchains with dedicated infrastructure.
 
 ## SDKs and Libraries
 
