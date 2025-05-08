@@ -78,7 +78,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [CryptoPanic](https://cryptopanic.com/) - News aggregator with real-time updates and sentiment analysis.
 - [DappRadar](https://dappradar.com/) - Dapp discovery and analytics with DeFi tracking.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence for digital assets.
-- [IntoTheBlock](https://www.intotheblock.com/) - Crypto analytics with machine learning insights.
+- [Sentora](https://sentora.com/) - Crypto analytics with machine learning insights.
 - [Messari](https://messari.io/) - Market intelligence with research, metrics, and visualization tools.
 - [Nansen](https://www.nansen.ai/) - Blockchain analytics with wallet labels and insights.
 - [PandaMetrics](https://pandametrics.xyz/) - Advanced blockchain data analytics. ![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)
