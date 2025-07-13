@@ -164,6 +164,7 @@ Web3 data resources, tools, and APIs for developers, researchers, and analysts w
 - [Alchemy](https://www.alchemy.com/) - Blockchain development platform with enhanced features.
 - [Ankr](https://www.ankr.com) - Web3 API provider with a free tier. Supports Web3 login and payments for the lower tier plan.
 - [Chainstack](https://chainstack.com) - Web3 APIs including IPFS access and Subgraphs hosting.
+- [Flashbots](https://protect.flashbots.net/) - Flashbots Protect is a user-friendly, secure, and powerful way to transact on Ethereum for both novices and sophisticated users
 - [Helius](https://www.helius.dev/) - Solana's leading RPC & API platform providing comprehensive Solana infrastructure, NFT APIs and transaction APIs.
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains. [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
