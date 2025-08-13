@@ -2,7 +2,7 @@
 
 Web3 data resources, tools, and APIs for developers, researchers, and analysts working in the blockchain and cryptocurrency space.
 
-![axol-io](./media/Logo-light-background-0.png)
+<img src="./media/Logo-light-background-0.png" alt="axol-io" width="200" height="auto">
 
 ## Table of Contents
 
