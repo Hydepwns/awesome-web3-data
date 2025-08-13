@@ -1,0 +1,5 @@
+MD013: false # line length
+MD033: false # inline HTML
+MD034: false # bare URLs (we prefer proper links but allow)
+MD024: false # no-duplicate-heading (allow within different sections)
+MD041: true  # first-line-h1 

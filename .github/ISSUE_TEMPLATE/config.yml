@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions
+    url: https://github.com/axolio/awesome-web3-data/discussions
+    about: Ask general questions or discuss resources 
