@@ -24,7 +24,7 @@ Thank you for considering contributing to awesome-web3-data! We welcome contribu
 
     ```bash
     git add .
-    git commit -m "Add/do new thing: [Name]"
+    git commit -m "Add: <Name of resource> to <Section>"
     ```
 
 6. **Push to Your Fork**: Push your changes to your forked repository.
@@ -35,12 +35,42 @@ Thank you for considering contributing to awesome-web3-data! We welcome contribu
 
 7. **Submit a Pull Request**: Open a pull request to the main repository. Provide a clear description of your changes and why they should be merged.
 
-## Contribution Guidelines
+## Submission Checklist
 
-- **Quality**: Ensure that the resources you add are of high quality and relevant to the Web3 data ecosystem.
-- **Format**: Follow the existing format and structure of the list. Use proper Markdown syntax and include links where necessary.
-- **Descriptions**: Provide clear and concise descriptions for each resource. Avoid using promotional language.
-- **Licensing**: Ensure that any content you contribute is your own or is appropriately licensed for inclusion in an open-source project.
+Please ensure each submission meets the following:
+
+- The entry includes: **Name**, **URL**, and a **neutral one-line description**.
+- Place it in the correct section. If unsure, suggest a new section in your PR.
+- Sort alphabetically within the section.
+- Use consistent terminology: standardize on **ETH** (not “Ethereum”) in descriptions, unless part of a proper noun.
+- Avoid marketing language; prefer neutral, factual phrasing.
+- Do not add duplicate entries across sections.
+- Links are reachable (no obvious 404s). Our CI runs a link checker on PRs.
+- If open source, consider linking the project’s GitHub repo directly.
+
+## Style Guide
+
+- **Capitalization**: Use product names as styled by the project (e.g., Viem, Wagmi, DeFiLlama). Use "ETH" elsewhere.
+- **Descriptions**: One sentence, concise, neutral. End with a period.
+- **Chains**: Mention chain context when relevant (e.g., "Solana RPC", "Cosmos explorer").
+- **Formatting**: Markdown list item per resource: `- [Name](https://url/) - Description.`
+- **Badges**: Do not add generic badges to entries.
+
+## Scope and Quality Bar
+
+- Focus is on data: analytics, indexers, datasets, ETL, infra, RPC, oracles, NFT data, SDKs.
+- Exclude trading bots, pure wallets without analytics, unrelated marketing sites.
+- Prefer widely used or well-documented resources.
+
+## Automated Checks
+
+On each pull request, CI runs:
+
+- `awesome-lint` for awesome-list best practices
+- `markdownlint` for Markdown style
+- A link checker for dead links
+
+Address any CI findings in your PR.
 
 ## Code of Conduct
 
